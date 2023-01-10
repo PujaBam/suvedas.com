@@ -241,9 +241,9 @@ text-align: center;
     transform: translateY(-30px);
   }
 }
-#index-html .founders {
+/* #index-html .founders {
   background: #e7e7e7c2;
-}
+} */
 #index-html .founders p{
 text-align: center;
 }
