@@ -248,21 +248,24 @@ text-align: center;
 text-align: center;
 }
 
-#index-html .counter span {
+#index-html .founders .counter span {
   font-size: var(--h3-fontsize);
   text-align: center;
   padding: 1rem;
   position: relative;
 }
-#index-html .counter .count-1 {
+#index-html .founders .counter .count-1 {
   text-align: center;
   font-size: 2.5rem;
   margin-top: 2rem;
 }
-#index-html .counter .count-1 i {
+#index-html .founders img{
+  border-radius: 70px;
+}
+#index-html .founders .counter .count-1 i {
   font-size: var(--h2-fontsize);
 }
-#index-html .counter span::after {
+#index-html .founders .counter span::after {
   content: "+";
   position: absolute;
 }
